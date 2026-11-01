@@ -1,0 +1,21 @@
+# Build artifacts
+bin/
+lib/json.hpp
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+
+# C++ objects
+*.o
+*.out
